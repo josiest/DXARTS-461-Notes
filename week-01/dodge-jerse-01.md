@@ -3,9 +3,11 @@
 ### Initial Questions
 
 **What are the fundamentals of Computer music?**
-
+- how a computer is used in various forms of an audio system
 
 **How are the fundamentals of Computer music useful to me as a composer and as a programmer?**
+- understanding of what data and algorithms allow a musician to define a
+  composition
 
 ## 1.4 The Use of a Computer in Audio Systems
 
@@ -60,6 +62,24 @@
 
 ## 1.5 Software for Computer Music
 
-#### 1.5A An Overview
+### 1.5A An Overview
 
-#### 1.5B Examples of Computer Music Languages
+Forms of music software:
+- sound synthesis
+- modification of synthesized or sampled sound
+- assistance with composition for acoustic instruments
+- computer performance of composed music
+
+Computer Music Composition architecture:
+- musician determines sound palette with _instruments_
+- instruments may be modified by its parameters
+- can be designed to generate simultaneous parts and long evolving sounds
+- a _score_ is a sequence of musical events that describe when and how
+  instruments may play
+
+### 1.5B Examples of Computer Music Languages
+
+Computer composition software process:
+- Musician input is in instrument and score definition
+- sound generation and score processing are done by the computer
+- compiled and run to produce sound
