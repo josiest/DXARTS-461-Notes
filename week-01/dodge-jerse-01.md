@@ -13,11 +13,20 @@
 
 **What qualifies as an audio system?**
 
+- in the context of this chapter, an audio system is any audio signal system 
+  which takes an input and produces an output
 
 **What roles can a computer take in audio systems?**
 
+- recording, synthesis and playback
+- processing and analysis
 
-**How does a user interact with a computer in an audio system?**
+**How does a user interact or not interact with a computer in an audio system?**
+
+- recording and playback might have minimal user interface, but synthesis has
+  unbounded, limited only by creativity
+
+- processing and analysis are defined by the specifc use cases
 
 ### Notes
 
@@ -41,8 +50,13 @@
 ### Consequent Questions
 
 **What are some interesting ways a signal can be processed?**
+- isolating timbres in complex audio
+- modulation (chpt 4), filtering (chpt 6), reverb (chpt 10)
 
 **What characteristics might be useful to analyze from an audio signal?**
+- acoustic charactersitcis of speech
+- characteristics can be used as basis for digital synthesis and undestanding
+  psychoacoustics
 
 ## 1.5 Software for Computer Music
 
