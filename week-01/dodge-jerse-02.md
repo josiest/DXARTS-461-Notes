@@ -61,9 +61,64 @@ Doppler effect.
   frequencies (i.e. the ratio of their frequencies is an exact integer)
 
 - More on this can be read in "Introduction to the Physics and Psychophysics
-  of Music" by Juan C. Roederer.
+  of Music" by Juan C. Roederer. p.21
 
 ## 2.2 Pitch
+
+**Frequency range of Human Hearing**
+
+- While human hearing ranges 20Hz to 20kHz, the greatest acuity is in the range
+  200Hz to 2000Hz.
+
+- This range occupies 2/3 of the basilar membrane. Higher frequencies only
+  occupy 1/3
+
+- The shorter the duration of a note, the harder it is for the brain to discern
+  its pitch, regardles of loudness
+
+**Just Noticable Difference**
+
+- The **Just Noticable Difference** (JND) is the physical limit of change in
+  frequency that we can notice
+
+- Some people speculate that the JND corresponds to the "spatial separation of
+  points of stimulus" on the basilar membrane
+
+- The JND varies with frequency level and with each person
+
+- The statistical average JND at 100Hz is 3% and the at 2000Hz is 0.5%
+
+- More on this can be read in "Introduction to the Physics and Psychophysics
+  of Music" by Juan C. Roederer. p.23
+
+**Beat Frequencies**
+
+- The frequency of a beat is determined by the difference between its tones
+
+- The pitch of a tone with beats is the average of its components
+
+- **Mistuned consonants** is another type of beat that happens when two tones
+  an octave apart are slightly out of tune
+
+- Mistuned consonants are much harder to discern above 1500Hz
+
+- Other beat tunings occer at perfect fourhts and fifths
+  (4:3 an 3:2 respectively)
+
+- The **limit of discrimination** is a point where the frequency difference
+  between two tones is large enough that we percieve them as two different
+  tones instead of the average between them
+
+- The **critical band** is the point where the frequency difference between
+  tones where the the percieved sensation transitions from **tonally rough** to
+  **tonally smooth**
+
+### Consequent Questions
+**What's the difference between the limit of discrimination and the critical
+band?**
+
+- I _think_ limit of discrimination has to do with frequencies while critical
+  band has to do with timbre?
 
 ## 2.3 Musical Tuning
 
