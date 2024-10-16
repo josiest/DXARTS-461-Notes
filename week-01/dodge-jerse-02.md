@@ -122,9 +122,50 @@ band?**
 
 ## 2.3 Musical Tuning
 
+**Formula for equal-tempered tuning:** _I^1/N_
+- Where _I_ is the "base interval" (e.g. octave is 2)
+- Where _N_ is the number of subdivisions
+
+**Non-standard tuning examples**
+- D&J 5.12 discusses John Chowning's _Stria_ which uses phi (golden ratio) in
+  its tuning system
+
 ## 2.4 Perception of Amplitude
 
+The **JND** varies not only with fundamental frequency, but also with
+spectral character of a sound
+
+- For a sine tone, JND is typically 0.2  to 0.4 dB
+
+**Threshold of Masking** is the intensity where a soft tone is no longer
+audible in the presence of a louder tone
+
+- depends greatly on frequency difference and amplitude of louder tone
+- depends somewhat on the frequency of louder tone
+
+The ear may create **aural harmonics** in a loud tone which do not exist in the
+physical waveform
+
 ## 2.5 Temporal Relationships
+
+Our ability to perceive pitch is dependent on the frequency
+- we must hear a minimum number of cycles before perceiving pitch
+- i.e. lower pitches take longer to hear
+- e.g. 100 Hz tone must last at least 40 ms, 1000 Hz only 13 ms
+- granular synthesis exploits this to use samples with shorter times
+
+**Three primary ways of perceiving sound sequences**
+1. **Coherence:** The sequnce is heard as a single "line" or "melody"
+
+2. **Fission:** When the sequence is played with a fast enough tempo, but not
+   too fast, it can be perceived as two or more separate lines or melodies
+   playing together
+
+3. **Fusion:** When the sequence is played with a tempo at audible rate - the
+   sequnces is perceived as a waveform
+
+- The size of the interval between tones affects the tempo boundary between
+  coherence and fission
 
 ## 2.6 Classical Theory of Timbre
 
