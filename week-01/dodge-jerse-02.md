@@ -169,6 +169,55 @@ Our ability to perceive pitch is dependent on the frequency
 
 ## 2.6 Classical Theory of Timbre
 
+**Spectral description of sound**
+- Equivalent descriptor to a wave form
+  - measures intensity vs frequency as opposed to amplitude vs time
+- **Spectral envelope** the distribution pattern of intensity across frequency 
+  - i.e. the spectral envelope _is_ a sound's intensity-frequency graph
+
+**Frequency band limitations**
+- both acoustic and synthesized tones are **band-limited** so that frequencies
+  above a certain point don't have enough energy to be recognized
+
+- the **bandwidth** of a sound is the width of the frequency region where that
+  contain "significant" components of frequency
+
+- the **rolloff** of a sound characterizes how the intensity diminishes with
+  frequency
+
+**How spectral envelopes affect how we differentiate timbres**
+- Our perception of timbral similarity is largely based on absolute frequency
+  bands
+
+- two tones with different fundamental frequencies but with the
+  same energy distribuition over partials often have different timbres
+
+  - e.g. 50 Hz triangle wave has most energy from 50 t0 450 Hz, while a 250 Hz
+    triangle wave has most energy from 450 to 2250 Hz
+
+- A **formant** is an energy peak in an absolute frequency region
+  - two tones with similar timbres will have similar formant structures
+
+**How acoustic bodies affect formant structures**
+
+- when traveling through a **resonating system** the amplitudes of partials
+  in specific frequency regions will be emphasized
+
+- different tones on the same instrument will have similar timbres because
+  the same frequency regions are emphasized
+
+**Formant peaks and the critical band**
+
+- Adjacent harmonics above the fifth fall in the same critical band - I think
+  meaning that we can't distinguish the difference in their frequencies
+
+- thus the intensity of the harmonics above the fifth only add to the intensity
+  of the formant peak
+
+### Consequent questions
+- Does the band-limit of a sound depend only on the band limit of our ears?
+  How much of a role does masking play if any?
+
 ## 2.7 Modern Studies of Timbre
 
 ## 2.8 Music Cognition
