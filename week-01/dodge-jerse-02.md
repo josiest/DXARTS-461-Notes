@@ -120,6 +120,10 @@ band?**
 - I _think_ limit of discrimination has to do with frequencies while critical
   band has to do with timbre?
 
+### Interesting references
+- Sharf, Bertram.
+  "Critical Bands." _Foundations of Modern Auditory Theory_ (vol 1.). 1970
+
 ## 2.3 Musical Tuning
 
 **Formula for equal-tempered tuning:** _I^1/N_
@@ -166,6 +170,12 @@ Our ability to perceive pitch is dependent on the frequency
 
 - The size of the interval between tones affects the tempo boundary between
   coherence and fission
+
+### Interesting References
+- Backus, John. _The Acoustical Foundations of Music_ (2nd ed.). 1977
+
+- Van Noorden, L. A. P. S.
+  "Temporal Coherence in the Preception of Tone Sequences." 1975
 
 ## 2.6 Classical Theory of Timbre
 
@@ -218,6 +228,67 @@ Our ability to perceive pitch is dependent on the frequency
 - Does the band-limit of a sound depend only on the band limit of our ears?
   How much of a role does masking play if any?
 
+### Interesting references
+**Discussion of spectral envelope of musical instruments**
+- Matthews, M. And Pierce, J. "Harmonic and Non-harmonic Partials." 1980
+- Hutchins, C. M. "Bowed Instruments and Music Acoustics." 1980
+
 ## 2.7 Modern Studies of Timbre
 
+- In contrast to the standard Helmholz envelope model, in natural sounds,
+  partials usually have distinct envelopes
+
+- the envelope shape is likely dependent on the parital - in Grey's study on
+  trumpet tones, the envelope shapes look to form a 3D surface
+
+**Onset asynchrony** is the difference in attack times among partials
+- McAdams study shows that if onset asynchrony exceed 30-70 ms, spectral
+  components orm a weaker perception of fusion into single sound
+
+- study by Rudolph Rasch shows asynchrony improves ability to percieve chords
+
+### Consequent questions
+**Can the envelopes of partials of different timbres be interpolated into
+another timbre to create unique tones?**
+
+- Apparently John Chowning does this in _Phonee_! 
+- Another composer A. Wayne Shawson does similar operations in _Colors_
+
+### Interesting references
+
+**Use of th FFT to analyze sound***
+- Risset, Jean-Claude. _Computer Study of Trumpet Tones_. 1966
+
+- Moorer, James A.
+  "On the Segmentation of Continuous Musical Sound by Digital Computer." 1975
+
+- Morrill, Dexter. "Trumpet Algorithms for Computer Composition." 1977
+
+- Moorer, J. A. and Grey, J. M
+  "Lexicon of Analyzed Tones (Part 1: A violin Tone)." 1977
+
+- Moorer, J. A. and Grey, J. M
+  "Lexicon of Analyzed Tones (Part 2: Clarinet and Oboe Tones)." 1977
+
+- Moorer, J. A. and Grey, J. M
+  "Lexicon of Analyzed Tones (Part 3: The Trumpet)." 1977
+
+**Studies in onset asynchrony**
+- Grey, John M. and Moorer, J. A.
+  "Perceptual Evaluations of Synthesized Musical Instrument Tones." 1978
+
+- McAdams, Steven.
+  "Spectral Fusion and the Creation of Auditory Images." 1978
+
+- Rash, Rudolph.
+  "Aspects of Perception and Performance of Polyphoic Music." 1978
+
 ## 2.8 Music Cognition
+
+- three components of music common across all cultures
+  1. use of discrete pitch intervals
+  2. octave equivalence
+  3. presence of four to seven focal pitches in an octave
+
+- the contents of a "musical stream" may be lost if too many components are
+  changed at once
