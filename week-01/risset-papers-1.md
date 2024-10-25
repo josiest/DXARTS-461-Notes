@@ -35,7 +35,25 @@ works?**
 
 ## Sculpting Sound with Computers
 
+The intersection of science and music is larger than it may appear
+
 ### Science and Technology can Benefit from Music
+
+Science and math has benefited many times from music
+
+- Organ pipes were tuned to harmonic partials four centuries before Fourier
+  developed Fourier analysis
+
+- Organ keyboards may be the first "information machines" since the keys were
+  interfaces to specify information that was decoupled from the energy that
+  produced the sound
+
+- logarithms, modulo and algebraic groups were all used in music before being
+  defined in mathematics
+
+- Heinrich Schenker introduced tonal theory 50 years before Chomsky developed
+  the conept of generative grammars
+
 ### Calculating Sounds
 ### Overview of my Musical Work with the Computer
 
