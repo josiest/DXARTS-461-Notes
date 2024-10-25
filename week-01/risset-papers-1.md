@@ -35,4 +35,11 @@ works?**
 
 ## Sculpting Sound with Computers
 
+### Science and Technology can Benefit from Music
+### Calculating Sounds
+### Overview of my Musical Work with the Computer
+
 ## Pitch and rhythm paradoxes
+
+### A Pitch Paradox
+### A Related Rhythm Paradox
